@@ -1,0 +1,15 @@
+[submodule "semanticcms-dia-model"]
+	path = semanticcms-dia-model
+	url = git@github.com:aoindustries/semanticcms-dia-model.git
+[submodule "semanticcms-dia-servlet"]
+	path = semanticcms-dia-servlet
+	url = git@github.com:aoindustries/semanticcms-dia-servlet.git
+[submodule "semanticcms-dia-style"]
+	path = semanticcms-dia-style
+	url = git@github.com:aoindustries/semanticcms-dia-style.git
+[submodule "semanticcms-dia-taglib"]
+	path = semanticcms-dia-taglib
+	url = git@github.com:aoindustries/semanticcms-dia-taglib.git
+[submodule "semanticcms-dia-view"]
+	path = semanticcms-dia-view
+	url = git@github.com:aoindustries/semanticcms-dia-view.git

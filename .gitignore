@@ -7,8 +7,3 @@ release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
 .mvn/timing.properties
-semanticcms-dia-model
-semanticcms-dia-servlet
-semanticcms-dia-style
-semanticcms-dia-taglib
-semanticcms-dia-view
