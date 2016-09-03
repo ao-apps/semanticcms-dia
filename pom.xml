@@ -47,6 +47,7 @@ along with semanticcms-dia.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
+		<module>semanticcms-dia-all</module>
 		<module>semanticcms-dia-model</module>
 		<module>semanticcms-dia-servlet</module>
 		<module>semanticcms-dia-style</module>

@@ -13,3 +13,6 @@
 [submodule "semanticcms-dia-view"]
 	path = semanticcms-dia-view
 	url = git@github.com:aoindustries/semanticcms-dia-view.git
+[submodule "semanticcms-dia-all"]
+	path = semanticcms-dia-all
+	url = git@github.com:aoindustries/semanticcms-dia-all.git
