@@ -8,6 +8,7 @@ Parent POM for Java API for embedding [Dia-based diagrams](https://wiki.gnome.or
 
 ## Modules
 * [SemanticCMS Dia All](https://semanticcms.com/dia/all/)
+* [SemanticCMS Dia Book](https://semanticcms.com/dia/book/)
 * [SemanticCMS Dia Model](https://semanticcms.com/dia/model/)
 * [SemanticCMS Dia Servlet](https://semanticcms.com/dia/servlet/)
 * [SemanticCMS Dia Style](https://semanticcms.com/dia/style/)
