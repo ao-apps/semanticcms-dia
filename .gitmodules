@@ -16,3 +16,21 @@
 [submodule "semanticcms-dia-all"]
 	path = semanticcms-dia-all
 	url = git@github.com:aoindustries/semanticcms-dia-all.git
+[submodule "all"]
+	path = all
+	url = git@github.com:aoindustries/semanticcms-dia-all.git
+[submodule "model"]
+	path = model
+	url = git@github.com:aoindustries/semanticcms-dia-model.git
+[submodule "servlet"]
+	path = servlet
+	url = git@github.com:aoindustries/semanticcms-dia-servlet.git
+[submodule "style"]
+	path = style
+	url = git@github.com:aoindustries/semanticcms-dia-style.git
+[submodule "taglib"]
+	path = taglib
+	url = git@github.com:aoindustries/semanticcms-dia-taglib.git
+[submodule "view"]
+	path = view
+	url = git@github.com:aoindustries/semanticcms-dia-view.git

@@ -57,11 +57,11 @@ along with semanticcms-dia.  If not, see <http://www.gnu.org/licenses />.
 	</scm>
 
 	<modules>
-		<module>semanticcms-dia-all</module>
-		<module>semanticcms-dia-model</module>
-		<module>semanticcms-dia-servlet</module>
-		<module>semanticcms-dia-style</module>
-		<module>semanticcms-dia-taglib</module>
-		<module>semanticcms-dia-view</module>
+		<module>all</module>
+		<module>model</module>
+		<module>servlet</module>
+		<module>style</module>
+		<module>taglib</module>
+		<module>view</module>
 	</modules>
 </project>
