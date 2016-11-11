@@ -37,6 +37,7 @@ along with semanticcms-dia.  If not, see <http://www.gnu.org/licenses />.
 
 	<properties>
 		<shortTitle>Dia</shortTitle>
+		<description.html><![CDATA[Parent POM for Java API for embedding <a target="_top" href="https://wiki.gnome.org/Apps/Dia/">Dia-based diagrams</a> in web pages.]]></description.html>
 		<javadoc.breadcrumbs><![CDATA[<a target="_top" href="${project.parent.parent.url}">${project.parent.parent.name}</a>
 / <a target="_top" href="${project.parent.url}">Dia</a>
 / <a target="_top" href="${project.url}">${shortTitle}</a>]]></javadoc.breadcrumbs>
