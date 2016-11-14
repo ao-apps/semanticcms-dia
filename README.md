@@ -1,5 +1,5 @@
 # [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Dia](https://semanticcms.com/dia/)
-Parent POM for Java API for embedding [Dia-based diagrams](https://wiki.gnome.org/Apps/Dia/) in web pages.
+Aggregator POM for Java API for embedding [Dia-based diagrams](https://wiki.gnome.org/Apps/Dia/) in web pages.
 
 ## Project Links
 * [Project Home](https://semanticcms.com/dia/)
