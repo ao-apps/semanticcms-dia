@@ -16,3 +16,6 @@
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/semanticcms-dia-view.git
+[submodule "renderer-html"]
+	path = renderer-html
+	url = git@github.com:aoindustries/semanticcms-dia-renderer-html.git

@@ -30,6 +30,7 @@ Aggregator POM for Java API for embedding [Dia-based diagrams](https://wiki.gnom
 * [SemanticCMS Dia All](https://semanticcms.com/dia/all/)
 * [SemanticCMS Dia Book](https://semanticcms.com/dia/book/)
 * [SemanticCMS Dia Model](https://semanticcms.com/dia/model/)
+* [SemanticCMS Dia Renderer HTML](https://semanticcms.com/dia/renderer/html/)
 * [SemanticCMS Dia Servlet](https://semanticcms.com/dia/servlet/)
 * [SemanticCMS Dia Style](https://semanticcms.com/dia/style/)
 * [SemanticCMS Dia Taglib](https://semanticcms.com/dia/taglib/)

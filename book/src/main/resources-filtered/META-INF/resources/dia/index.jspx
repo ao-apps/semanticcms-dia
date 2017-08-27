@@ -34,11 +34,12 @@ along with semanticcms-dia.  If not, see <http://www.gnu.org/licenses />.
 		shortTitle="@{documented.shortTitle}"
 		description="@{documented.description}"
 		datePublished="2016-10-19T02:34:00-0500"
-		dateModified="2017-07-18T20:35:30-0500"
+		dateModified="2017-08-26T05:01:22-0500"
 	>
 		<core:child page="changelog" />
 		<core:child book="/dia/all" page="/" />
 		<core:child book="/dia/model" page="/" />
+		<core:child book="/dia/renderer/html" page="/" />
 		<core:child book="/dia/servlet" page="/" />
 		<core:child book="/dia/style" page="/" />
 		<core:child book="/dia/taglib" page="/" />
@@ -66,6 +67,7 @@ along with semanticcms-dia.  If not, see <http://www.gnu.org/licenses />.
 			<ul>
 				<li><core:link book="/dia/all" page="/" /></li>
 				<li><core:link book="/dia/model" page="/" /></li>
+				<li><core:link book="/dia/renderer/html" page="/" /></li>
 				<li><core:link book="/dia/servlet" page="/" /></li>
 				<li><core:link book="/dia/style" page="/" /></li>
 				<li><core:link book="/dia/taglib" page="/" /></li>
