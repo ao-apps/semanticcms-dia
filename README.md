@@ -1,4 +1,4 @@
-# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://aoindustries.com/) [SemanticCMS](https://semanticcms.com/) / [Dia](https://semanticcms.com/dia/)
+# [<img src="ao-logo.png" alt="AO Logo" width="35" height="40">](https://github.com/aoindustries) [SemanticCMS](https://github.com/aoindustries/semanticcms) / [Dia](https://github.com/aoindustries/semanticcms-dia)
 <p>
 	<a href="https://aoindustries.com/life-cycle#project-current-stable">
 		<img src="https://semanticcms.com/ao-badges/project-current-stable.svg" alt="project: current stable" />
@@ -27,14 +27,13 @@ Aggregator POM for Java API for embedding [Dia-based diagrams](https://wiki.gnom
 * [GitHub](https://github.com/aoindustries/semanticcms-dia)
 
 ## Modules
-* [SemanticCMS Dia All](https://semanticcms.com/dia/all/)
-* [SemanticCMS Dia Book](https://semanticcms.com/dia/book/)
-* [SemanticCMS Dia Model](https://semanticcms.com/dia/model/)
-* [SemanticCMS Dia Renderer HTML](https://semanticcms.com/dia/renderer/html/)
-* [SemanticCMS Dia Servlet](https://semanticcms.com/dia/servlet/)
-* [SemanticCMS Dia Style](https://semanticcms.com/dia/style/)
-* [SemanticCMS Dia Taglib](https://semanticcms.com/dia/taglib/)
-* [SemanticCMS Dia View](https://semanticcms.com/dia/view/)
+* [SemanticCMS Dia All](https://github.com/aoindustries/semanticcms-dia-all)
+* [SemanticCMS Dia Model](https://github.com/aoindustries/semanticcms-dia-model)
+* [SemanticCMS Dia Renderer HTML](https://github.com/aoindustries/semanticcms-dia-renderer-html)
+* [SemanticCMS Dia Servlet](https://github.com/aoindustries/semanticcms-dia-servlet)
+* [SemanticCMS Dia Style](https://github.com/aoindustries/semanticcms-dia-style)
+* [SemanticCMS Dia Taglib](https://github.com/aoindustries/semanticcms-dia-taglib)
+* [SemanticCMS Dia View](https://github.com/aoindustries/semanticcms-dia-view)
 
 ## Contact Us
 For questions or support, please [contact us](https://aoindustries.com/contact):
