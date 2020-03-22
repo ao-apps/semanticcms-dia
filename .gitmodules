@@ -1,21 +1,28 @@
 [submodule "all"]
 	path = all
 	url = git@github.com:aoindustries/semanticcms-dia-all.git
+	branch = .
 [submodule "model"]
 	path = model
 	url = git@github.com:aoindustries/semanticcms-dia-model.git
+	branch = .
 [submodule "servlet"]
 	path = servlet
 	url = git@github.com:aoindustries/semanticcms-dia-servlet.git
+	branch = .
 [submodule "style"]
 	path = style
 	url = git@github.com:aoindustries/semanticcms-dia-style.git
+	branch = .
 [submodule "taglib"]
 	path = taglib
 	url = git@github.com:aoindustries/semanticcms-dia-taglib.git
+	branch = .
 [submodule "view"]
 	path = view
 	url = git@github.com:aoindustries/semanticcms-dia-view.git
+	branch = .
 [submodule "bom"]
 	path = bom
 	url = git@aoindustries.github.com:aoindustries/semanticcms-dia-bom.git
+	branch = .
