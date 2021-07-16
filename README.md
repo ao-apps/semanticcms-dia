@@ -8,6 +8,11 @@
 
 [![Build](https://github.com/aoindustries/semanticcms-dia/workflows/Build/badge.svg?branch=1.x)](https://github.com/aoindustries/semanticcms-dia/actions?query=workflow%3ABuild)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.semanticcms/semanticcms-dia/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.semanticcms/semanticcms-dia)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.semanticcms%3Asemanticcms-dia&metric=alert_status)](https://sonarcloud.io/dashboard?branch=1.x&id=com.semanticcms%3Asemanticcms-dia)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.semanticcms%3Asemanticcms-dia&metric=ncloc)](https://sonarcloud.io/component_measures?branch=1.x&id=com.semanticcms%3Asemanticcms-dia&metric=ncloc)  
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.semanticcms%3Asemanticcms-dia&metric=reliability_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.semanticcms%3Asemanticcms-dia&metric=Reliability)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.semanticcms%3Asemanticcms-dia&metric=security_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.semanticcms%3Asemanticcms-dia&metric=Security)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?branch=1.x&project=com.semanticcms%3Asemanticcms-dia&metric=sqale_rating)](https://sonarcloud.io/component_measures?branch=1.x&id=com.semanticcms%3Asemanticcms-dia&metric=Maintainability)
 
 Aggregator POM for Java API for embedding [Dia-based diagrams](https://wiki.gnome.org/Apps/Dia/) in web pages.
 
