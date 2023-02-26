@@ -19,7 +19,7 @@ Aggregator POM for Java API for embedding [Dia-based diagrams](https://wiki.gnom
 ## Project Links
 * [Project Home](https://semanticcms.com/dia/)
 * [Changelog](https://semanticcms.com/dia/changelog)
-* [Maven Central Repository](https://search.maven.org/artifact/com.semanticcms/semanticcms-dia)
+* [Maven Central Repository](https://central.sonatype.com/search?namespace=com.semanticcms&q=a%3Asemanticcms-dia)
 * [GitHub](https://github.com/ao-apps/semanticcms-dia)
 
 ## Modules
