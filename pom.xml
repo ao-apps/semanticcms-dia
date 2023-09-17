@@ -32,6 +32,11 @@ along with semanticcms-dia.  If not, see <https://www.gnu.org/licenses/>.
   <groupId>com.semanticcms</groupId><artifactId>semanticcms-dia</artifactId><version>1.9.3-POST-SNAPSHOT</version>
   <packaging>pom</packaging>
 
+  <properties>
+    <!-- Must be set to ${git.commit.time} for snapshots or ISO 8601 timestamp for releases. -->
+    <project.build.outputTimestamp>${git.commit.time}</project.build.outputTimestamp>
+  </properties>
+
   <name>SemanticCMS Dia</name>
   <url>https://semanticcms.com/dia/</url>
   <description>Aggregator POM for Java API for embedding Dia-based diagrams in web pages.</description>
